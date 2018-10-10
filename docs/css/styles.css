@@ -32,3 +32,13 @@ h6 {
     font-size: 100%;
 
 }
+
+#header h1 {
+    color: green;
+
+}
+
+#header li {
+    display: inline;
+
+}
